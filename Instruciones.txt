@@ -1,0 +1,8 @@
+1. primero he abri el cmd e instale el  pip install gTTs (para convertir de texto a audio) 
+2. os ejecutar el codigo y asi poder escuchar el audio
+3. instalar python -m pip install SpeechRecognition
+ 
+
+intrucciones 
+
+quiere convertir el texto en voz, la formacion de un monton de voces distintas 
